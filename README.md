@@ -6,7 +6,7 @@ A powerful Android gallery app that displays your photos beautifully while optio
 [![API](https://img.shields.io/badge/API-30--35-4caf50)](https://developer.android.com/studio/releases/platforms)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Java](https://img.shields.io/badge/Java-17-007396?logo=java)](https://www.java.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)](https://core.telegram.org/bots)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)](https://t.me/errorfix_tv)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/)
 
 ---
