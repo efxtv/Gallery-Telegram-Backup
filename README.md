@@ -1,6 +1,9 @@
-# Gallery Telegram Backup
+# Gallery Telegram Backup by EFXTv
 
 A powerful Android gallery app that displays your photos beautifully while optionally backing them up to Telegram in the background.
+
+Contact for update/source and suggest new features : [EFXTv](https://t.me/errorfix_tv)
+
 
 [![Platform](https://img.shields.io/badge/Android-11--15-3DDC84?logo=android)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-30--35-4caf50)](https://developer.android.com/studio/releases/platforms)
